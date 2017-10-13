@@ -5,10 +5,10 @@ A collection of scripts related to machine learning.
 
 ## Courses
 
-##### Machine Learning [Coursera](https://www.coursera.org/learn/machine-learning)
+##### Machine Learning [Coursera](https://www.coursera.org/learn/machine-learning) TODO
 
 ##### Deep Learning [Coursera](https://www.coursera.org/specializations/deep-learning)
 
 ## Competitions
 
-##### Titanic [Kaggle](https://www.kaggle.com/c/titanic)
+##### Titanic [Kaggle](https://www.kaggle.com/c/titanic) TODO
