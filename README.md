@@ -3,12 +3,10 @@
 
 A collection of scripts related to machine learning.
 
-## Courses
-
-##### Machine Learning [Coursera](https://www.coursera.org/learn/machine-learning) TO_UPLOAD
+## Course Assignments
 
 ##### Deep Learning [Coursera](https://www.coursera.org/specializations/deep-learning)
 
-## Competitions
+## Projects and Competitions
 
-##### Titanic [Kaggle](https://www.kaggle.com/c/titanic) TO_UPLOAD
+##### Titanic [Kaggle](https://www.kaggle.com/c/titanic)
